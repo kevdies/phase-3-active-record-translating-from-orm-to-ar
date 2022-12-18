@@ -5,6 +5,7 @@ gem "json", "~> 1.8", ">= 1.8.5"
 gem "pry"
 gem "rake"
 gem "sqlite3", "~> 1.4"
+gem "awesome_print"
 
 group :test do
   gem "database_cleaner"
